@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const apiUrl = `https://abc-demo-app-backend.herokuapp.com/`;
+const apiUrl = `http://abc-demo-app-backend.herokuapp.com/api/employees`;
 
 export const fetchData = () => async (dispatch) => {
 	try {
