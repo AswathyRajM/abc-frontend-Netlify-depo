@@ -16,6 +16,6 @@ You will also see any lint errors in the console.
 
 ### `npm test`
 
-#View Live
+# View Live
 
 https://aswathyrajm.github.io/js-sampleHotel/
