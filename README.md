@@ -18,4 +18,4 @@ You will also see any lint errors in the console.
 
 # View Live
 
-https://aswathyrajm.github.io/js-sampleHotel/
+https://demo-mern-stack.netlify.app/
